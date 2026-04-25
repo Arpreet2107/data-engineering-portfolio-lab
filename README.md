@@ -159,7 +159,7 @@ This roadmap is designed to build **T-shaped skills**: deep in core engineering 
 **Daily Tracker:** See [`/daily-log.md`](/daily-log.md) for my progress, blockers, and wins.
 
 ---
-
+```
 ## 🗂️ GitHub Portfolio Structure
 data-engineering-roadmap/
 │
@@ -196,7 +196,7 @@ data-engineering-roadmap/
 └── .github/ # CI/CD workflows
 └── workflows/
 └── dbt-ci.yml
-
+```
 text
 
 ---
